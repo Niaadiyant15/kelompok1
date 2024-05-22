@@ -10,7 +10,7 @@
 
 <body>
     <nav class="navbar">
-
+            <h6 title id="Nav-title">Buka Waroeng</h6>
     </nav>
 
 </body>
