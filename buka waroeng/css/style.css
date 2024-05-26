@@ -33,7 +33,7 @@ section {
 .form-box {
     position: relative;
     width: 400px;
-    height: 450px;
+    height: 40rem;
     border-radius: 20px;
     background-color: #4D869C;
     display: flex;
@@ -42,11 +42,13 @@ section {
 }
 
 
+
 .form-box h2{
     font-size: 2em;
-    color:  #fff;
+    color:  #ffffff;
     text-align: center;
 }
+
 
 .inputbox {
     position: relative;
@@ -234,6 +236,21 @@ article h2 {
     transition: transform 80ms
     ease-out;
 }
+
+.rgst button {
+    border-radius: 20px;
+    border: none;
+    background-color: #4D869C;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms
+    ease-out;
+}
+
 
 .content { 
     display: flex;
