@@ -28,7 +28,11 @@
                     <input type="username" required>
                     <label for="">Email</label>
                 </div>
-
+                <div class="inputbox">
+                    <ion-icon name="mail"></ion-icon>
+                    <input type="email" required>
+                    <label for="">Email</label>
+                </div>
                 <div class="inputbox">
                     <ion-icon name="lock"></ion-icon>
                     <input type="password" required>
